@@ -1,0 +1,125 @@
+animals      	: Bekerley Segmentation Dataset and Benchmark
+BabyAtWindow 	: HDR DataSet
+BabyOnGrass  	: HDR DataSet
+BabyWalker   	: HDR DataSet
+basket       	: NASA image DataSet
+birds        	: JieP
+block        	: JieP 
+boy          	: NASA image DataSet
+camels       	: Bekerley Segmentation Dataset and Benchmark
+campus       	: JieP
+city         	: Naturalness Preserved enhancelebt algorithm for non-uniform illumination image
+deep         	: GKV
+dike         	: Naturalness Preserved enhancelebt algorithm for non-uniform illumination image
+dog          	: HDR+ Burst Photography Dataset
+faceMan      	: Faces 1999
+faceWman     	: Faces 1999
+girl         	: NASA image DataSet
+girl2       	: NASA image DataSet
+grid         	: A fusion-based Enhancing Method
+hexagone     	: GKV
+house        	: NASA image DataSet
+kitkat       	: A fusion-based Enhancing Method
+landscape    	: Faded version of Hawkes Bay
+lighthouseMonroe : NASA image DataSet
+lumbar1      	: GKV
+meeting      	: NASA image DataSet
+micro        	: LIME
+moon         	: NASA image DataSet
+museum       	: NASA image DataSet
+night           : LIME
+opthalmic		: GKV
+outdoor       	: SRIE 
+pianist      	: HDR DataSet
+plane        	: Bekerley Segmentation Dataset and Benchmark
+plant        	: SRIE
+radio        	: PIE
+river        	: PIE 
+sailboat     	: PIE
+spot         	: LIME
+starwars     	: LIME
+street      	: PIE
+streetnight 	: LIME
+sunset       	: SRIE
+swan       		: A fusion-based Enhancing Method
+team        	: NASA image DataSet
+test         	: LIME
+test2        	: LIME
+venise       	: LIME
+woman        	: JieP
+x-ray        	: NASA image DataSet
+
+--------------------------------------------------------------------------
+NASA - Retinex Image Processing
+https://dragon.larc.nasa.gov/retinex/pao/news/ 
+These images demonstrate the great dynamic range compression, increased sharpness and color, and accurate scene rendition that is produced by the Multiscale Retinex with Color Restoration.
+Extending your browser window to full width should make the following images line up as pairs. Click on each image to download the full resolution image (1200X1300 ~1-3MB each).
+
+-------------------------------------------------------------------------
+
+Geffray S., Klutchnikoff N., Vimond M. (2016), Illumination problems in digital images. A statistical point of view, Journal of Multivariate Analysis, 150: 191-213
+http://irma.math.unistra.fr/~geffray/GKV_code_web.nb.html
+
+--------------------------------------
+
+Bekerley Segmentation Dataset and Benchmark
+D. Martin, C. Fowlkes, D. Tal, and J. Malik, “A database of human segmented natural images and its application to evaluating segmentation algorithms and measuring ecological statistics,” in Proc. 8th Int’l Conf. Computer Vision, vol. 2, July 2001, pp. 416–423.
+https://www2.eecs.berkeley.edu/Research/Projects/CS/vision/bsds/
+
+---------------------------------------
+
+HDR DataSet
+
+Pradeep Sen, Nima Khademi Kalantari, Maziar Yaesoubi, Soheil Darabi, Dan B Goldman, and Eli Shechtman
+"Robust Patch-Based HDR Reconstruction of Synamic Scenes", 
+ACM Transactions on Graphics, Vol. 31, No. 6, November 2012, (Proceedings of ACM SIGGRAPH Asia 2012)
+
+---------------------------------------
+
+HDR+ Burst Photography Dataset
+S. W. Hasinoff, D. Sharlet, R. Geiss, A. Adams, J. T. Barron, F. Kainz, J. Chen, and M. Levoy, “Burst photography for high dynamic range and low-light imaging on mobile cameras,” 
+ACM Transactions on Graphics (Proc. SIGGRAPH Asia), vol. 35,no. 6, 2016.
+https://hdrplusdata.org/
+
+---------------------------------------
+
+A Joint Intrinsic-Extrinsic Prior Model for Retinex (Jiep)
+B. Cai, X. Xu, K. Guo, K. Jia, B. Hu, and D. Tao, “A joint intrinsic-extrinsic prior model for retinex,” 
+in Proceedings of the IEEE International Conference on Computer Vision, 2017, pp. 4000–4009.
+
+--------------------------------------
+
+Faces 1999 (Front)
+http://www.vision.caltech.edu/archive.html
+Li, M., Liu, J., Yang, W., Sun, X., & Guo, Z. (2018). Structure-revealing low-light image enhancement via robust Retinex model. IEEE Transactions on Image Processing, 27(6), 2828-2841.
+
+
+--------------------------------------
+
+Naturalness Preserved enhancelebt algorithm for non-uniform illumination image
+https://shuhangwang.wordpress.com/2015/12/14/naturalness-preserved-enhancement-algorithm-for-non-uniform-illumination-images/
+The dataset consists of: 46 images captured using the Cannon digital camera.
+S. Wang, J. Zheng, H.-M. Hu, and B. Li, “Naturalness preserved enhancement algorithm for non-uniform illumination images,” IEEE Transactions on Image Processing, vol. 22, no. 9, pp. 3538–3548, 2013.
+
+
+-------------------------------------
+
+LIME
+
+https://sites.google.com/view/xjguo/lime
+Xiaojie Guo, Yu Li, and Haibin Ling, "LIME: Low-light IMage Enhancement via Illumination Map Estimation " IEEE TIP 2017
+
+
+--------------------------------------
+
+PIE : A Probabilistic Method for Image Enhancement With Simultaneous Illumination and Reflectance Estimation
+X. Fu, Y. Liao, D. Zeng, Y. Huang, X.-P. Zhang, and X. Ding, “A probabilistic method for image enhancement with simultaneous illumination and reflectance estimation,” 
+IEEE Transactions on Image Processing, vol. 24, no. 12, pp. 4965–4977, 2015.
+https://xueyangfu.github.io/
+
+---------------------------------------
+
+SRIE : A weighted variational model for simultaneous reflectance and illumination estimation
+X. Fu, D. Zeng, Y. Huang, X.-P. Zhang, and X. Ding, “A weighted variational model for simultaneous reflectance and illumination estimation,” 
+in Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition, 2016, pp. 2782–2790.
+https://xueyangfu.github.io/
